@@ -1,0 +1,24 @@
+#stripe keys
+.env  
+/venv/
+rag/vectorstore
+rag/__pycache__
+routes/__pycache__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

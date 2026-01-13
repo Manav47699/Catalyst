@@ -1,0 +1,8 @@
+id,title,content
+1,Account Creation,Users can create an account by going to the homepage and clicking on the Sign In button. From there, they should select the option to create a new account and fill out the required details.
+2,Hire Mentor,Users can hire mentors by clicking on "Catalyst Finance" and then selecting and then filing the form of the mentor you want to hire.
+3,Group Creation,Users can create groups by clicking on 'Groups' in the navigation bar and filling out the group creation form.
+4,Post Creation,Users can create posts by going to 'Your Feed' in the navigation bar and submitting the post creation form.
+5,What to use for payment,Users can use their stripe account for payment.
+6,Legal Advice, For legal advices users can visit "Catalyst Finance" and then ask their queries to our AI chat system.
+7, Payment Methods, In Catalyst we use stripe.
