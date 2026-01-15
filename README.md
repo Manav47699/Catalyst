@@ -70,7 +70,8 @@ Catalyst integrates local LLMs via **Ollama** to provide a private and powerful 
 ### **AI Features**
 <div align="center">
 <img width="40%" alt="AI Chatbot" src="https://github.com/user-attachments/assets/9171995c-fb6f-4f1c-a378-521763e257e1" />
-<img width="40%" alt="Screenshot from 2026-01-13 17-58-59" src="https://github.com/user-attachments/assets/5ce58106-f0ba-4482-9950-df3b15b20106" />
+<img width="2459" height="1336" alt="Screenshot from 2026-01-13 17-58-59" src="https://github.com/user-attachments/assets/739b893d-ec90-412a-98f0-af9efec063ee" />
+
   
   
 </div>
