@@ -1,6 +1,6 @@
 # 🚀 Catalyst
 
-**The ultimate launchpad for young entrepreneurs.** Catalyst is a multi-faceted ecosystem designed to help founders grow their ventures, build meaningful networks, and access high-level mentorship through a blend of human expertise and cutting-edge AI.
+**The ultimate launchpad for young entrepreneurs.** Catalyst is a platform designed for young entrepreneurs to grow their ventures, improve their networking with like-minded individuals, and access personalized mentorship—both human-driven and AI-powered. 
 
 ---
 
@@ -22,21 +22,20 @@ Catalyst leverages a robust, modern stack to ensure speed, security, and intelli
 
 ### 🤝 Catalyst Community
 A social hub where the "grind" is understood and celebrated.
-* **Idea Incubator:** Post startup concepts to receive constructive feedback and suggestions.
-* **Milestone Updates:** Announce major wins and pivots to an audience of like-minded peers.
+* **Your feed:** You can post your startup ideas, milestones or announcement for the Catalyst Community to see.
 * **Interest Groups:** Create or join specialized circles based on your industry or niche.
 
 ### 📍 Catalytic Partners
-*Privacy-first networking.* Catalyst utilizes **GeoPy** to convert city names into coordinates for mapping. By avoiding real-time GPS tracking and pinpointing only city-level data, we facilitate local connections while prioritizing user security and privacy.
+ Catalyst utilizes **GeoPy** to convert city names into coordinates for mapping. By avoiding real-time GPS tracking and pinpointing only city-level data, we facilitate local connections while prioritizing user security and privacy.
 
 ### 💰 Catalytic Finances
-A bridge between talent, guidance, and capital.
+
 * **Expert Mentorship:** A curated marketplace for freelance mentors. After a thorough background and certification check, specialists are listed for hire, with secure payments powered by **Stripe**.
 * **Investment Portal:** Startups looking for seed capital can list their ventures and offer investor benefits, gaining visibility with potential backers looking for the next big thing.
 
 ---
 
-## 🤖 Advanced AI Features
+## 🤖 AI Features
 
 Catalyst integrates local LLMs via **Ollama** to provide a private and powerful user experience.
 
@@ -48,23 +47,32 @@ Catalyst integrates local LLMs via **Ollama** to provide a private and powerful 
 
 ## 📸 Screenshots
 
-### **Community Hub**
+### **Catalyst Community**
 <div align="center">
   <img width="32%" alt="Community 1" src="https://github.com/user-attachments/assets/8bb50866-2638-426f-a4aa-833e44bc1c97" />
   <img width="32%" alt="Community 2" src="https://github.com/user-attachments/assets/8533f608-2238-407f-9908-beb5a94fad85" />
   <img width="32%" alt="Community 3" src="https://github.com/user-attachments/assets/7c80de36-5e35-4732-9495-86edeea6f306" />
 </div>
 
-### **Networking & Mentorship**
+### **Networking**
 <div align="center">
   <img width="49%" alt="Map Partners" src="https://github.com/user-attachments/assets/3f0384b4-693e-47d9-aead-3b2d8ab3a5cd" />
-  <img width="49%" alt="Mentors" src="https://github.com/user-attachments/assets/8b127f56-6771-45a1-9f0a-92e50dfd7e07" />
+ 
 </div>
 
-### **Finance & AI**
+### **Finance**
 <div align="center">
   <img width="49%" alt="Finances" src="https://github.com/user-attachments/assets/194e9e5b-4ddf-477c-b8fd-7ee0c59c056e" />
-  <img width="40%" alt="AI Chatbot" src="https://github.com/user-attachments/assets/9171995c-fb6f-4f1c-a378-521763e257e1" />
+  <img width="49%" alt="Mentors" src="https://github.com/user-attachments/assets/8b127f56-6771-45a1-9f0a-92e50dfd7e07"
+  <!-- <img width="40%" alt="AI Chatbot" src="https://github.com/user-attachments/assets/9171995c-fb6f-4f1c-a378-521763e257e1" /> -->
+</div>
+
+### **AI Features**
+<div align="center">
+<img width="40%" alt="AI Chatbot" src="https://github.com/user-attachments/assets/9171995c-fb6f-4f1c-a378-521763e257e1" />
+<img width="40%" alt="Screenshot from 2026-01-13 17-58-59" src="https://github.com/user-attachments/assets/5ce58106-f0ba-4482-9950-df3b15b20106" />
+  
+  
 </div>
 
 ---
@@ -98,5 +106,5 @@ Catalyst integrates local LLMs via **Ollama** to provide a private and powerful 
 
 ---
 
-## ❤️ Made with love by Team Fullystacked
-> Bridging the gap between ambition and achievement.
+## Made by team Fully Stacked
+
